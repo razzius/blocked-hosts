@@ -2,7 +2,7 @@
 
 I am blocking Facebook, Outbrain and Taboola on my computer and you can too.
 
-If you're running a Unix operating system (Ubuntu, MacOS, GNU/Linux), put the contents of [hosts](https://github.com/razzius/blocked-hosts/tree/master/hosts) in your `/etc/hosts` file.
+If you're running a Unix operating system (Ubuntu, MacOS, GNU/Linux), put the contents of [hosts](hosts) in your `/etc/hosts` file.
 
 ```sh
 # First copy any lines you want onto your clipboard, then:
